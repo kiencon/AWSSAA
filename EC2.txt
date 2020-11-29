@@ -1,0 +1,11 @@
+EC2: stands for Elastic Cloud Compute 
+You can understand EC2 is a virtual machine run on cloud.
+We have some concepts:
+	EBS: where you can save your data.
+	ELB: using for distributing load balancing
+	ASG: auto scaling group.
+	AMI: Amazon machine image
+SSH into an ec2 instance, you need to have a keypair that is pem file. You can ssh with linux, Mac and Win10, with old window version you must using putty.
+Security Groups:
+	***
+
