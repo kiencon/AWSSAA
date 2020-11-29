@@ -1,0 +1,4 @@
+IAM: stands for Identity Access Management
+The whole of your AWS security is going to be in IAM.
+There's gonna be users, group and roles.
+never share your account IAM and use root account.
