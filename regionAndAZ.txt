@@ -1,0 +1,14 @@
+- AWS is a global cloud provider.
+There are many data centers all arround the world so there are called REGION.
+Therefore it has many regions.
+Inshort, region is a set of data centers.
+Region has a naming convention.
+eg: eu-west-1, eu-west-2
+Region is a cluster of data centers.
+If you use AWS Service in a region, you won't see your data in another region.
+- AZ (Availability zone)
+Each region can have many AZ, usually it's going to be three AZ per region, maybe 2 or 6, 
+using abcdef letters.
+eg: eu-west-1a, eu-west-1b
+Each AZ is one or more discrete data centers.
+All AZ in a region are seperate -> isolated from disasters but they are connected by high bandwidth with ultra-low latency.
